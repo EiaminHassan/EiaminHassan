@@ -1,12 +1,8 @@
 ## Hi there 👋  
 
-I'm **Eiamin Hassan**, a **Computer Science & Engineering (CSE) student** with a passion for **Artificial Intelligence, Machine Learning, and Networking**.  
+I'm **Eiamin Hassan**, a **Computer Science & Engineering (CSE) student** with a passion for **Artificial Intelligence and Machine Learning**.  
 
 ### 🚀 About Me  
-- 🌱 I’m currently learning **Python for Data Manipulation & Machine Learning**  
-- 💡 Proficient in **C, C++**  
+- 🌱 I’m currently learning **Data Science and Machine Learning**  
+- 💡 Strong foundation in **problem solving with C and C++**  
 - ⚽ I love playing and watching football  
-
-### 📫 Let's Connect!  
-Feel free to reach out and collaborate on exciting projects!  
-
