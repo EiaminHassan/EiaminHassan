@@ -10,7 +10,7 @@
 
 - 🌱 Currently exploring **Data Science** & **Machine Learning**
 - 🧠 Strong foundation in **problem solving with C/C++**
-- 🛠️ Skilled in **Python**, **C++**, **Flutter**, **HTML**, **CSS**, **JS**,and **MySQL**
+- 🛠️ Skilled in **Python**, **C++**, **HTML**, **CSS**, **JS**,and **MySQL**
 - 📊 Building projects with **Pandas**, **NumPy**, **Matplotlib**, and **Scikit-learn**
 - 🎯 Focused on building a solid portfolio for **remote work & internships**
 
