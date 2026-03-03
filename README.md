@@ -14,7 +14,6 @@
 - 🛠️ Hands-on experience in **Python**, **FastAPI**, **SQL**, and ML pipelines
 - 📊 Worked with **Pandas**, **NumPy**, **Matplotlib**, **Scikit-learn**
 - 🧬 Research experience in **Computer Vision & Medical Image Analysis**
-- 🎯 Building real-world, production-ready projects for **AI/ML roles, internships & research**
 
 ---
 
@@ -22,8 +21,7 @@
 
 - 🔹 Machine Learning fundamentals (classical → advanced)
 - 🔹 Deep Learning with **PyTorch / TensorFlow**
-- 🔹 Computer Vision (Image enhancement, segmentation, OCR)
-- 🔹 Backend for AI systems (**FastAPI**, REST APIs)
+- 🔹 Backend for AI systems (**FastAPI**)
 - 🔹 Model deployment & experiment tracking
 - 🔹 Clean code, scalability & real-world ML workflows
 
