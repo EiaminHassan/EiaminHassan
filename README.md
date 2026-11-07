@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/profile-green-animate.svg" alt="3D contribution profile">
+  <img src="https://github-readme-stats.vercel.app/api?username=eiaminhassan&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics">
 </div>
 
 ## About
