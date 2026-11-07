@@ -1,8 +1,6 @@
 <div align="center">
 
-# Eiamin Hassan
-
-### Computer Science & Engineering Graduate · AI Engineer · Computer Vision Researcher
+# Eiamin Hassan Shanto
 
 <p>
   <a href="https://github.com/eiaminhassan">
@@ -13,16 +11,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=eiaminhassan&style=flat-square&color=4C6EF5" alt="Profile views">
 </p>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution activity">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eiaminhassan&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics">
-</div>
 
 ## About
 
